@@ -14,3 +14,7 @@ A University proyect from the popular game Advance Wars created with Game Maker 
  - Download th "src.gmx" folder
  - Open th "Advance Wars.proyect.gmx" file
  - You can also open this file from the Game Maker welcome window, at the "Open" tab
+ 
+# Authors
+* [Gregorio Carvajal Expósito](https://github.com/HackBeam)
+* [Miguel Ángel Torres López](https://github.com/matl1995)
